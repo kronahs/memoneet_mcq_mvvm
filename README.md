@@ -21,8 +21,8 @@ Include some screenshots of the app here.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/daily-mcq-app.git
-    cd daily-mcq-app
+    git clone https://github.com/kronahs/memoneet_mcq_mvvm.git
+    cd memoneet_mcq_mvvm
     ```
 
 2. **Install dependencies:**
@@ -37,7 +37,4 @@ Include some screenshots of the app here.
     flutter run
     ```
 
-## Folder Structure
-
-Here's a brief overview of the folder structure of the app:
 
