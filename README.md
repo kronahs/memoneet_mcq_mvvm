@@ -1,16 +1,43 @@
-# daily_mcq_mvvm
+# Daily MCQ App
 
-A new Flutter project.
+Daily MCQ is a mobile application built with Flutter that provides users with a daily multiple-choice question (MCQ) to test their knowledge. Users can practice a new question each day and track their streaks of consecutive days practiced.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Daily MCQ**: Users can answer one question per day.
+- **Subjects**: Provides questions from various subjects like NEET Biology.
+- **Streak Tracking**: Track the number of consecutive days the user has practiced.
+- **Progress Tracking**: Visual feedback on the user's progress in answering questions.
+- **Authentication**: Firebase Authentication for user sign-up and sign-in.
+- **Firestore Integration**: Stores user data and MCQs in Firestore.
+- **Provider for State Management**: Uses Provider for state management following the MVVM architecture pattern.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Include some screenshots of the app here.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/yourusername/daily-mcq-app.git
+    cd daily-mcq-app
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the app:**
+
+    ```bash
+    flutter run
+    ```
+
+## Folder Structure
+
+Here's a brief overview of the folder structure of the app:
+
