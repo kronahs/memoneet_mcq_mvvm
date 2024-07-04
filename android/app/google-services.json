@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903835076044",
+    "project_id": "daily-mcq-4ed8d",
+    "storage_bucket": "daily-mcq-4ed8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903835076044:android:4dea49bbc0401aa63c4969",
+        "android_client_info": {
+          "package_name": "com.example.daily_mcq_mvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaz7f3argjtAHj2JOn7UzsanVvompdiEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
